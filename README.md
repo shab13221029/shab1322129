@@ -1,4 +1,4 @@
-![Key partners (1)](https://user-images.githubusercontent.com/90132926/132121982-5c822645-3940-44dd-a9bd-196d47f4ee6d.jpg)
+![Key partners (1)]
 - 👋 Hi, I’m @shghzhnh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,6 +6,3 @@
 - 📫 How to reach me ...
 
 <!---
-shghzhnh/shghzhnh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
